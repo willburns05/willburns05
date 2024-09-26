@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Will
+- 👀 I’m interested in AI and Automation for Businesses
+- 🌱 I’m currently studying Computer Science Majoring In AI and ML
+- 📫 How to reach me my linkedin is https://www.linkedin.com/in/william-burns-787781271/
