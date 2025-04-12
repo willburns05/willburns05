@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Will
 - 👀 I’m interested in AI and Automation for Businesses
-- 🌱 I’m currently studying Computer Science Majoring In AI and ML at Griffith University
+- 🌱 I’m currently studying Computer Science Double Majoring In Data Science & AI x Algorithms and Computing at Griffith University
 - 📫 How to reach me my linkedin is https://www.linkedin.com/in/william-burns-787781271/
